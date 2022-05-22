@@ -9,7 +9,6 @@ Presenta el uso de:
   <ul>
     <li>printf para mostrar el mensaje en terminal</li>
     <li>El uso de #include para añadir librerias</li>
-    <li>Comentarios para la documentación interna del programa.</li>
   </ul>
 </p>
 
