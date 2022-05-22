@@ -1,7 +1,7 @@
 # Hola-Mundo
 <p><b>Autor:</b> Xavier Romero Hernández, <b>Fecha:</b> 03/02/2022 <br>
-  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa
-  <b>Materia:</b> Programación Estructrada
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa<br>
+  <b>Materia:</b> Programación Estructrada<br>
 Ciclo: 01/2022</p>
 
 <p>Programa de estructura básica de Lenguaje C de la materia de Programación Estructurada
